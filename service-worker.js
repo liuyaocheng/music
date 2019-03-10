@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.70196b9d10b3d2160b01bc6abea80e61.js"
+  "/music/precache-manifest.1e6436c9c018a5366caccce76e222571.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vmusic"});
