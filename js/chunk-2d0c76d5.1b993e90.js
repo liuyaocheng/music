@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c76d5"],{5125:function(t,n,e){"use strict";e.r(n);var s=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"music"},[e("audio",{attrs:{src:"https://api.bzqll.com/music/tencent/url?key=579621905&id="+t.$route.params.id}})])},c=[],u=(e("bc3a"),{data:function(){return{song:[]}},mounted:function(){this.getSong()},methods:{}}),a=u,i=e("2877"),o=Object(i["a"])(a,s,c,!1,null,null,null);n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0c76d5.1b993e90.js.map
